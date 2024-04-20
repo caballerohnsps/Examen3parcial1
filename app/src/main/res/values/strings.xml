@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Examen3parcial1</string>
+    <string name="Descripcion" />
+    <string name="Descripcion1">Descripcion</string>
+    <string name="Periodista">Periodista</string>
+    <string name="txtDescripcion">Descripcion</string>
+    <string name="txtPeriodista">Periodista</string>
+    <string name="txtfecha">fecha</string>
+</resources>
